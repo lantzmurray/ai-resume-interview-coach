@@ -1,0 +1,5 @@
+Jane Doe
+Software Developer
+Experience:
+- Backend Engineer at TechCorp (2020-Present): Built REST APIs using FastAPI and PostgreSQL. Improved query performance by 30%.
+- Junior Dev at WebSolutions (2018-2020): Maintained React frontend and wrote unit tests.
