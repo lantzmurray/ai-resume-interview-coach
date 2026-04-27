@@ -2,6 +2,10 @@
 
 A multi-agent system that helps job seekers prepare with feedback and mock interviews using local LLM models.
 
+## Screenshot
+
+![ResumeCoach](ResumeCoach.png)
+
 ## Features
 
 - **Multi-Agent Architecture**: Three specialized agents work together to provide comprehensive job search assistance
@@ -70,8 +74,8 @@ The application will open in your browser at `http://localhost:8501`
 
 1. **Enter Resume Text**: Paste your resume content in the sidebar
 2. **Enter Career Goal**: Specify your target role or career objective
-3. **Select Coaching Mode**: Choose between resume optimization, mock interview, or role-fit analysis
-4. **Click "Run Coaching Session"**: The agents will collaborate to provide feedback
+3. **Click "Run Coaching Team"**: The agents will collaborate to provide feedback
+4. **Review Results**: Compare the coaching outputs and inspect the collaboration log
 
 ### Project Structure
 
